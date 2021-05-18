@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/food-swipe/static/css/main.7d72844f.chunk.css",
+    "main.js": "/food-swipe/static/js/main.8fdcceb3.chunk.js",
+    "main.js.map": "/food-swipe/static/js/main.8fdcceb3.chunk.js.map",
+    "runtime-main.js": "/food-swipe/static/js/runtime-main.f7d3d74c.js",
+    "runtime-main.js.map": "/food-swipe/static/js/runtime-main.f7d3d74c.js.map",
+    "static/js/2.1ca8d591.chunk.js": "/food-swipe/static/js/2.1ca8d591.chunk.js",
+    "static/js/2.1ca8d591.chunk.js.map": "/food-swipe/static/js/2.1ca8d591.chunk.js.map",
+    "static/js/3.d69b09f4.chunk.js": "/food-swipe/static/js/3.d69b09f4.chunk.js",
+    "static/js/3.d69b09f4.chunk.js.map": "/food-swipe/static/js/3.d69b09f4.chunk.js.map",
+    "index.html": "/food-swipe/index.html",
+    "static/css/main.7d72844f.chunk.css.map": "/food-swipe/static/css/main.7d72844f.chunk.css.map",
+    "static/js/2.1ca8d591.chunk.js.LICENSE.txt": "/food-swipe/static/js/2.1ca8d591.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7d3d74c.js",
+    "static/js/2.1ca8d591.chunk.js",
+    "static/css/main.7d72844f.chunk.css",
+    "static/js/main.8fdcceb3.chunk.js"
+  ]
+}
